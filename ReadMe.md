@@ -6,5 +6,6 @@ This is a part of Praveen’s [Live Stream](https://rb.gy/er1jok).
 
 ## What did you learn from this Live Stream
 
-* Create issues to update this section.
-* Learnt a funny story where Rucha was the topper! 😅
+- Create issues to update this section.
+- Learnt a funny story where Rucha was the topper! 😅
+- It was a really fun way of learning something new!
